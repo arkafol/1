@@ -26,8 +26,6 @@ SECRET_KEY = 'vkg#^3!xy$mbfz_4gzw4jqoe+&@(n4rxizxlx6=&g7l_^qq_b+'
 DEBUG = True
 
 ALLOWED_HOSTS = []
-
-
 # Application definition
 
 INSTALLED_APPS = (
